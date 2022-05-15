@@ -1,0 +1,7 @@
+Program12.exe is to be placed inside of a folder. 
+Inside of the folder that program.exe is placed, the following files need to be placed for proper execution.
+AxInterop.WMPLib.dll - File necessary for operation of windows media player
+Interop.WMPLib.dll - File necessary for operation of windows media player
+
+The following folder needs to be placed within the folder that Program12.exe is located as the executable contains relative links to resources within it.
+C# Projects - Folder necessary as it holds all of the resources for the program.
